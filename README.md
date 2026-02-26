@@ -4,10 +4,10 @@
 ![Ayur Glow x Dev](./banner.png)
 -->
 
-# 👋 Hi, I'm Nishadi (Nish)
+# Hi, I'm Nishadi (Nish)
 
-Ayurvedic Practitioner & FullStack Developer in Copenhagen  
-  Currently growing **Ayur Glow** + sharpening my skills in **Next.js** & **modern frontend**
+AWS Cloud Practitioner and FullStack Developer in Copenhagen  
+  Currently growing **Ayur Glow** + sharpening my skills in **Cloud Computing**
 
 ---
 
