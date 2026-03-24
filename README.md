@@ -1,86 +1,94 @@
-<!-- Banner (optional) -->
-<!-- You can create a banner in Canva and upload it as an image in this repo, then link it here -->
-<!-- Example:
-![Ayur Glow x Dev](./banner.png)
--->
+## Hi, I'm Nishadi (Nish) 👋
 
-# Hi, I'm Nishadi (Nish)
-
-AWS Cloud Practitioner and FullStack Developer in Copenhagen  
-  Currently growing **Ayur Glow** + sharpening my skills in **Cloud Computing**
+Cloud-focused Full-Stack Developer based in Copenhagen, building user-centered digital products with a strong interest in AWS architecture, AI-enabled experiences, and health-tech innovation.
 
 ---
 
-## What I'm up to
+## 🚀 Professional Summary
 
-- Learning & practising **React, Next.js, Zustand, React Hook Form**
-- Building wellness & gut-health projects like **Breathing-and-Glow**
-- Exploring **AI** to personalize rituals & health journeys
-- Living in **Copenhagen**, looking for roles in **health tech / wellness tech**
-
----
-
-## 🔗 Let’s connect
-
-- [LinkedIn](https://www.linkedin.com/in/nishadi-samarathunge/)  
-- Email: **nish.shanika@gmail.com**
+- AWS Cloud Practitioner with hands-on full-stack development experience
+- Recently earned an **AWS AI Foundations Certificate**
+- Currently preparing for **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- Building practical projects in wellness and health-tech with modern web technologies
 
 ---
 
-## 🛠 Tech Stack
+## ☁️ AWS Journey (2026)
 
-**Frontend**
+- ✅ Completed: **AWS AI Foundations Certificate**
+- 🎯 In Progress: **AWS Solutions Architect – Associate exam preparation**
+- 📘 Current focus areas:
+  - Designing secure and resilient architectures
+  - High-performance and cost-optimized cloud solutions
+  - AWS core services and architecture best practices
 
-- React • Next.js • TypeScript • JavaScript (ES6+)  
+---
+
+## 🧠 Core Skills
+
+### Cloud & Architecture
+- AWS fundamentals (IAM, security concepts, cloud best practices)
+- Architecture thinking: scalability, reliability, and cost awareness
+
+### Frontend
+- React • Next.js • TypeScript • JavaScript (ES6+)
 - Tailwind CSS • CSS Modules • HTML5 • Responsive Design
 
-**Backend & Tools**
+### Backend & Data
+- Node.js • REST APIs
+- Supabase • PostgreSQL • MySQL
 
-- Node.js • REST APIs  
-- Supabase / PostgreSQL / MySql
+### Engineering Tools
 - Git • GitHub • GitHub Projects
-
-**Testing & Other**
-
-- Jest (learning basics)  
-- React Hook Form • Zod (schemas)  
-- Zustand (state management)
+- React Hook Form • Zod • Zustand
+- Jest (actively improving test skills)
 
 ---
 
-## 💡 Featured Projects
+## 💼 Featured Projects
 
 ### 🌬 Breathing-and-Glow
-Guided breathing + glow rituals web app to help users slow down and regulate their nervous system.  
-**Tech:** React, TypeScript, React Hooks, maybe Zustand (if you add it).  
-🔗 [Repo](https://github.com/nishadipri/Breathing-and-Glow)
+Guided breathing and glow rituals web app designed to support nervous-system regulation and mindful daily habits.
+
+**Highlights**
+- Built a clean, calming user experience for wellness journeys
+- Structured reusable UI and logic for scalable feature growth
+
+**Tech:** React, TypeScript, React Hooks
+**Repository:** [Breathing-and-Glow](https://github.com/nishadipri/Breathing-and-Glow)
+
+### 🩺 Health-Tech Enrollment App (Technical Assessment)
+Enrollment workflow app with form validation and data table view for a health-tech use case.
+
+**Highlights**
+- Implemented robust form handling and validation patterns
+- Built with production-style component structure in Next.js
+
+**Tech:** Next.js (App Router), TypeScript, React Hook Form
+**Repository:** Link available on request
 
 ---
 
-### 🩺 Technical Assessment (Enrollment App)
-Enrollment app built for a health-tech case: form handling, validation, and data table view.  
-**Tech:** Next.js (App Router), React Hook Form, TypeScript.  
-🔗 [Repo](https://github.com/YOUR-REPO-LINK-HERE)
+## 📚 Current Learning Focus
+
+- AWS Solutions Architect exam domains and scenario-based practice
+- Advanced React patterns and performance optimization
+- Testing with Jest + React Testing Library
+- System design and data-intensive application principles
 
 ---
 
+## 🤝 Open to Opportunities
+
+I am open to **Cloud / Full-Stack / Frontend Engineer** roles, especially in health-tech, wellness-tech, and mission-driven product teams.
 
 ---
 
-## 📚 Currently learning
+## 🔗 Connect with Me
 
-- Advanced **React Hooks** 
-- **Testing with Jest + React Testing Library**
-- System design basics & data-intensive thinking (reading *Designing Data-Intensive Applications*)
-
----
-
-## A bit more about me
-
-- I combine **10+ years of Ayurveda** with modern tech to help people with **digestion & stress**  
-- I love **morning rituals**, journaling, and building small tools that make life gentler  
-- Open to **frontend / fullstack roles** in health tech, wellness tech, or digital products with a human touch
+- LinkedIn: [nishadi-samarathunge](https://www.linkedin.com/in/nishadi-samarathunge/)
+- Email: nish.shanika@gmail.com
 
 ---
 
-> “Code that feels like a deep breath and a warm cup of tea.” ☕✨
+> "Building technology that is calm, useful, and human."
