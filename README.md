@@ -1,10 +1,10 @@
-## Hi, I'm Nishadi (Nish) 👋
+## Hi, I'm Nishadi (Nish) 
 
-Cloud-focused Full-Stack Developer based in Copenhagen, building user-centered digital products with a strong interest in AWS architecture, AI-enabled experiences, and health-tech innovation.
+Cloud-focused Full-Stack Developer based in Copenhagen, building user-centred digital products with a strong interest in AWS architecture, AI-enabled experiences, and health-tech innovation.
 
 ---
 
-## 🚀 Professional Summary
+##  Professional Summary
 
 - AWS Cloud Practitioner with hands-on full-stack development experience
 - Recently earned an **AWS AI Foundations Certificate**
@@ -19,7 +19,7 @@ Cloud-focused Full-Stack Developer based in Copenhagen, building user-centered d
 - 🎯 In Progress: **AWS Solutions Architect – Associate exam preparation**
 - 📘 Current focus areas:
   - Designing secure and resilient architectures
-  - High-performance and cost-optimized cloud solutions
+  - High-performance and cost-optimised cloud solutions
   - AWS core services and architecture best practices
 
 ---
@@ -43,31 +43,6 @@ Cloud-focused Full-Stack Developer based in Copenhagen, building user-centered d
 - React Hook Form • Zod • Zustand
 - Jest (actively improving test skills)
 
----
-
-## 💼 Featured Projects
-
-### 🌬 Breathing-and-Glow
-Guided breathing and glow rituals web app designed to support nervous-system regulation and mindful daily habits.
-
-**Highlights**
-- Built a clean, calming user experience for wellness journeys
-- Structured reusable UI and logic for scalable feature growth
-
-**Tech:** React, TypeScript, React Hooks
-**Repository:** [Breathing-and-Glow](https://github.com/nishadipri/Breathing-and-Glow)
-
-### 🩺 Health-Tech Enrollment App (Technical Assessment)
-Enrollment workflow app with form validation and data table view for a health-tech use case.
-
-**Highlights**
-- Implemented robust form handling and validation patterns
-- Built with production-style component structure in Next.js
-
-**Tech:** Next.js (App Router), TypeScript, React Hook Form
-**Repository:** Link available on request
-
----
 
 ## 📚 Current Learning Focus
 
